@@ -101,7 +101,4 @@ Jen-Hao, Yang
 - Firebase for real-time database functionality
 - All contributors who have helped with the project
 
----
-
-<p align="center">Made with ❤️ by Jen-Hao, Yang</p>
 

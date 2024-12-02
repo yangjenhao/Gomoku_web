@@ -70,7 +70,7 @@ A  Gomoku (Five in a Row) game implemented with pure JavaScript and Firebase.
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/gomoku-online.git
+git clone https://github.com/yangjenhao/gomoku-online.git
 ```
 
 2. Configure Firebase

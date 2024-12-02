@@ -2,6 +2,8 @@
 
 A  Gomoku (Five in a Row) game implemented with pure JavaScript and Firebase.
 
+[Gomoku link](<https://yangjenhao.github.io/Gomoku_web/>)
+
 ![Gomoku Game](./images/gomoku-board.jpg)
 
 
